@@ -54,7 +54,4 @@ git push
 # Тестирование в Github Actions
 
 При отправке (push) изменений в ветку main репозитория будет запущен пайплайн Github Actions, 
-
-(https://github.com/cpppracticum/cpp-backend-template-practicum/actions),
-
 который позволит увидеть результат прохождения тестов.
